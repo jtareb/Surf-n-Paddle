@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+  
+<head>
+  
+  <link rel="stylesheet" type="text/css" href="normalize.css">
+
+  <link rel="stylesheet" type="text/css"  href="main.css">
+ 
+  
+</head>
+
+<body>
+  <ul class="top section">
+    <li class="background">
+      <a href="">
+        <img src="https://raw.githubusercontent.com/tiy-atl-js-q1-2015/Assignments/master/Assignment%2003/assets/header.jpg" />
+      </a>
+      <div class="image-header">
+        <link href='http://fonts.googleapis.com/css?family=Oswald|Open+Sans' rel='stylesheet' type='text/css'>
+
+          <style>
+            body {
+              font-family: 'Oswald', sans-serif;
+              font-size: 100px;
+          }
+          </style>
+          <span>SURF & PADDLE CO</span>
+
+          
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+        
