@@ -6,18 +6,8 @@
   <link rel="stylesheet" type="text/css" href="normalize.css">
 
   <link rel="stylesheet" type="text/css"  href="main.css">
- 
-  
-</head>
 
-<body>
-  <ul class="top section">
-    <li class="background">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/tiy-atl-js-q1-2015/Assignments/master/Assignment%2003/assets/header.jpg" />
-      </a>
-      <div class="image-header">
-        <link href='http://fonts.googleapis.com/css?family=Oswald|Open+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Oswald|Open+Sans' rel='stylesheet' type='text/css'>
 
           <style>
             body {
@@ -25,9 +15,17 @@
               font-size: 100px;
           }
           </style>
-          <span>SURF & PADDLE CO</span>
+ 
+  
+</head>
 
-          
+
+<body>
+  <div class="pagetop">
+    <img src="assets/header.jpg" />
+    <span>Surf & Paddle Co</span>
+
+  
 
 </body>
 </html>
