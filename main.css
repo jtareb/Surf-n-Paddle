@@ -13,6 +13,7 @@
 
 .tophdr {
 	position: absolute;
+	text-align: center;
 	left: 279px;
 	top: 165px;
 	font-family: 'Open Sans', sans-serif;
@@ -63,11 +64,15 @@
 }
 .IYtext {
 	position: absolute;
-	left:550px;
-	top: 280px;
+	text-align: center;
+	
+	
 	font-family: 'Open Sans', sans-serif;
 	font-size: medium;
 
 }
 
-
+.texthdr {
+	text-align: right;
+	font-size:  small;
+}
