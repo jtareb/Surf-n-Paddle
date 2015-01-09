@@ -63,7 +63,11 @@
 }
 .IYtext {
 	position: absolute;
-	left: 350px
-	top: 175px;
+	left:550px;
+	top: 280px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: medium;
 
 }
+
+
