@@ -5,8 +5,6 @@
   
   <link rel="stylesheet" type="text/css" href="normalize.css">
 
-  <link rel="stylesheet" type="text/css"  href="main.css">
-
   <link href='http://fonts.googleapis.com/css?family=Oswald|Open+Sans' rel='stylesheet' type='text/css'>
 
           <style>
@@ -15,15 +13,53 @@
               font-size: 100px;
           }
           </style>
- 
+
+  <link rel="stylesheet" type="text/css"  href="main.css">
   
 </head>
 
 
 <body>
   <div class="pagetop">
-    <img src="assets/header.jpg" />
-    <span>Surf & Paddle Co</span>
+    <img class="top-image"src="assets/header.jpg" />    
+  </div>
+
+<div class="smallpics">
+    <img src="assets/ad.jpg" />
+    <img src="assets/article-image-1.jpg" />
+    <img src="assets/article-image-2.jpg" />
+    <img src="assets/article-image-3.jpg" />
+    <img src="assets/article-image-4.jpg" />
+    <img src="assets/avatar.png" />
+    <img src="assets/icon-comment.png" />
+    <img src="assets/icon-share.png" />
+    <img src="assets/icon-upload.png" />
+    <img src="assets/logo.png" />
+    <img src="assets/search-icon.png" />
+    <img src="assets/theironyard-logo.png" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <div class="caption">
+    
+      <span>Surf and Paddle Co. Blog</span>
+
+    
+</div>
+    
 
   
 
