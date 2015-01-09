@@ -28,5 +28,12 @@
 	padding-left: 20px;
 
 }	
+.logotext {
+	position: absolute;
+	float: left;
+	left: 370px;
+	top: 10px;
+	font-size: medium;
 
+}
 
