@@ -14,7 +14,7 @@
 .tophdr {
 	position: absolute;
 	left: 350px;
-	top: 150px;
+	top: 165px;
 	font-family: "Oswald", sans-serif;
 	color: white;
 
@@ -36,4 +36,11 @@
 	font-size: medium;
 
 }
+.linktext {
+	position: absolute;
+	float: right;
+	right: 400px;
+	top: 10px;
+	font-size: medium;
 
+}
