@@ -21,11 +21,15 @@
 
 <body>
   <div class="pagetop">
-    <img class="top-image"src="assets/header.jpg" /> 
-      <div class="caption">
-    
-      <span>Surf and Paddle Co. Blog</span>
+    <img class="top-image"src="assets/header.jpg" />
+      <div class="tophdr">
+      SURF & PADDLE CO
       </div>
+
+
+      
+    
+      
 
 
 

@@ -6,14 +6,20 @@
   height: 523px;
   margin: 75px;
   margin-top: 0;
-  
-
-
-  
 }
-.caption {
-	text-align: center;
-	vertical-align: middle;
+
+
+  
+
+.tophdr {
+	position: absolute;
+	left: 350px;
+	top: 150px;
+	font-family: 'Oswald', sans-serif;
+	color: white;
+
+
+	
 
 
 }
