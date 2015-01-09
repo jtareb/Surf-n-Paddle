@@ -21,7 +21,16 @@
 
 <body>
   <div class="pagetop">
-    <img class="top-image"src="assets/header.jpg" />    
+    <img class="top-image"src="assets/header.jpg" /> 
+      <div class="caption">
+    
+      <span>Surf and Paddle Co. Blog</span>
+      </div>
+
+
+
+
+
   </div>
 
 <div class="smallpics">
@@ -53,12 +62,9 @@
 
 
 
-   <div class="caption">
+   
     
-      <span>Surf and Paddle Co. Blog</span>
 
-    
-</div>
     
 
   
