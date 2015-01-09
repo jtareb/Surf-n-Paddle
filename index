@@ -38,7 +38,18 @@
 
       <div class="linktext">
       ABOUT
-      </div>  
+      </div>
+
+      <div class="linksearch">
+      SEARCH
+      </div> 
+  
+      <img class="magnify"src="search-icon.png" />
+      <div class="IYtext">
+      An Iron Yard Academy Project Est Fall 2013
+      </div>
+      
+
 
 
   </div>

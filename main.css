@@ -13,9 +13,9 @@
 
 .tophdr {
 	position: absolute;
-	left: 350px;
+	left: 279px;
 	top: 165px;
-	font-family: "Oswald", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: white;
 
 
@@ -23,24 +23,47 @@
 .logoimg {	
 	position: absolute;
 	float: left;
-	left: 300px;
-	top: 0;
+	left: 200px;
+	top: 5px;
 	padding-left: 20px;
 
 }	
 .logotext {
 	position: absolute;
 	float: left;
-	left: 370px;
+	left: 279px;
 	top: 10px;
+	font-family: 'Open Sans', sans-serif;
 	font-size: medium;
 
 }
 .linktext {
 	position: absolute;
 	float: right;
-	right: 400px;
+	right: 300px;
 	top: 10px;
 	font-size: medium;
+
+}
+.linksearch {
+	position: absolute;
+	float: right;
+	right: 235px;
+	top: 10px;
+	font-size: medium;
+
+
+}
+.magnify {
+	position: absolute;
+	float: right;
+	right: 200px;
+	top: 10px;
+
+}
+.IYtext {
+	position: absolute;
+	left: 350px
+	top: 175px;
 
 }
