@@ -10,23 +10,26 @@ body {
   margin-top: 0;
   height: 523px;
 }
-
-
-}
-.header {
-	background-image: 
-}
   
 
 .tophdr  {
-	
+	position: relative;
 	text-align: center;
 	margin: auto;
 	font-family: 'Open Sans', sans-serif;
+	top: 193px;
+	color: white;
+	font-size: 100px;
+}
 		
+.underhder {
+	position: relative;
+	text-align:center;	
+	margin: auto;
+	font-family: 'Open Sans', sans-serif;
+	top: 185px;
 }
 
-}
 .logoimg {	
 	position: absolute;
 	float: left;

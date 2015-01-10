@@ -5,14 +5,7 @@
   
   <link rel="stylesheet" type="text/css" href="normalize.css">
 
-  <link href='http://fonts.googleapis.com/css?family=Oswald|Open+Sans' rel='stylesheet' type='text/css'>
-
-          <style>
-            body {
-              font-family: 'Oswald', sans-serif;
-              font-size: 100px;
-          }
-          </style>
+  <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
   
   <link href='http://fonts.googleapis.com/css?family=Open+Sans|Roboto' rel='stylesheet' type='text/css'>
 
@@ -25,28 +18,33 @@
 <body>
 
     <div class="top-image">
-<!--       <img class="top-image"src="assets/header.jpg" /> -->
+
         <div class="tophdr">
           SURF & PADDLE CO.         
         </div>
-      </div>
+
+        <div class="underhder">
+          An IronYard Academy Project Est Fall 2013
+        </div>  
+      
         
-      <img class="logoimg"src="assets/logo.png" />
+        <img class="logoimg"src="assets/logo.png" />
         <div class="logotext">
         SURF & PADDLE CO. BLOG
         </div>
 
 
-      <div class="linktext">
-      ABOUT
-      </div>
+        <div class="linktext">
+        ABOUT
+        </div>
 
-      <div class="linksearch">
-      SEARCH
-      </div> 
+        <div class="linksearch">
+        SEARCH
+        </div> 
   
-      <img class="magnify"src="assets/search-icon.png" />
-      <
+        <img class="magnify"src="assets/search-icon.png" />
+      
+ </div>
       
       
 
