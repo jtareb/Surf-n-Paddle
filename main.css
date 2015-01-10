@@ -73,13 +73,26 @@ body {
 	top: 18px;
 
 }
-.IYtext {
-	position: relative;
-	text-align: center;		
-	font-family: 'Open Sans', sans-serif;
-	font-size: medium;
+
+
+
+.centerpage{
+	width: 1300px;
+	margin: auto;
+	margin-top: 40px;
 
 }
+.leftcol {
+	position: relative;
+	width: 650px;
+	margin-left: 100px;
+	text-align: left;
+	font-size: 400%;
+	font-family: 'Oswald', sans-serif;
+
+}
+
+
 
 
 .paragraph h1 {
