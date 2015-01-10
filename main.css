@@ -42,7 +42,7 @@ body {
 	position: absolute;
 	float: left;
 	left: 279px;
-	top: 10px;
+	top: 15px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: medium;
 
@@ -51,16 +51,18 @@ body {
 	position: absolute;
 	float: right;
 	right: 300px;
-	top: 10px;
+	top: 15px;
 	font-size: medium;
+	font-family: 'Oswald', sans-serif;
 
 }
 .linksearch {
 	position: absolute;
 	float: right;
 	right: 235px;
-	top: 10px;
+	top: 15px;
 	font-size: medium;
+	font-family: 'Oswald', sans-serif;
 
 
 }
@@ -68,7 +70,7 @@ body {
 	position: absolute;
 	float: right;
 	right: 200px;
-	top: 10px;
+	top: 18px;
 
 }
 .IYtext {
