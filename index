@@ -50,15 +50,15 @@
 
 
 
-    <div class="centerpage">
+  <div class="centerpage">
       
       <div class="leftcol">       
         <h1> FANTASTIC ENGAGING HEADLINE GOES HERE</h1>
       
           
-            <div class: "subavatoar">     
+                
             <img class="annemarie"src="assets/avatar.png" /><span>Anne Marie onMonday Oct 7 9:22pm</span>
-           </div>
+           
 
           
 
@@ -73,14 +73,41 @@
           <p>Aut si rem a me pecuniam in Midiam elit. Nec ego in imperio elit. Id quod sum sub potestate felis. Etiam Id est - problema solvenda. Skyler est simplex partitio - introducam pecuniam, pecuniam launder. Id quod vobis deerat.</p>
 
           <p>Qui nunc loqueris? Ecce qui cogitatis? Vos scitis quanta ego faciam annum Id est, ut ego dixi vobis non credunt. Scis quid si ne subito placuit ire in opus?</p>
-         </div>
+       </div>
 
       </div>
     
+    <div class="rightcol">
+        <div class="author">
+          <img class="authorimg"src="assets/avatar.png" />
+         
+         
+        </div>
+          <h3>ANNE MARIE</h3>
+         <h4>Twitter Facebook Instagram</h4> 
+     
 
-        
-        
-    </div>
+         <div class="ad">
+          <img class="surfer"src="assets/ad.jpg" />
+          </div>
+
+          <h5>about this ad</h5>
+
+
+
+     </div>   
+  
+
+
+
+
+
+
+
+
+
+  </div>
+
       
 
 
