@@ -100,15 +100,15 @@ h1 {
 	float: left;
 	height: 21px;
 	width: 21px;
-	font-family: 'Oswald', sans-serif;
-	font-size: -100%%
+	font-family: 'Open Sans', sans-serif;
+	font-size: small%
 
 }
 
 	
 
-.textleft {
-	font-family: 'Oswald', sans-serif;
+.textleft p {
+	font-family: 'Open Sans', sans-serif;
 	font-size: 100%
 }
 
@@ -116,6 +116,12 @@ h1 {
 
 h2 {
 	font-family: 'Open Sans', sans-serif;
+}
+
+
+.textleft2 p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 100%
 }
 
 .rightcol {
@@ -168,10 +174,7 @@ h6 {
 	color: blue;
 }	
 
-p {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 25%;
-	color: grey;
+
 
 }
 .bottomhdr {

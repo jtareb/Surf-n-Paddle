@@ -57,7 +57,7 @@
       
           
                 
-            <img class="annemarie"src="assets/avatar.png" /><span>Anne Marie onMonday Oct 7 9:22pm</span>
+            <img class="annemarie"src="assets/avatar.png" /><span>Anne Marie on Monday Oct 7 9:22pm</span>
            
 
           
@@ -69,10 +69,11 @@
     
           <h2>WHOA, THAT'S RADICAL!</h2>
     
-
+        <div class="textleft2">
           <p>Aut si rem a me pecuniam in Midiam elit. Nec ego in imperio elit. Id quod sum sub potestate felis. Etiam Id est - problema solvenda. Skyler est simplex partitio - introducam pecuniam, pecuniam launder. Id quod vobis deerat.</p>
 
           <p>Qui nunc loqueris? Ecce qui cogitatis? Vos scitis quanta ego faciam annum Id est, ut ego dixi vobis non credunt. Scis quid si ne subito placuit ire in opus? Askjowlwojij sdli slijjije sks skmnnie slkjke slkjk slkjj slkj sljj sljjkj slkjklj ssljkjs slj sljlkjs</p>
+        </div>
 
           <img class="comment"src="assets/icon-comment.png" />
 
@@ -98,6 +99,9 @@
 
          <div class="sidebarhdg"> 
           <h6>SIDEBAR SECTION HEADING</h6>
+          </div>
+            
+          <div class="sidebartex">          
             <P>Abdc sked akdkd akdki dkaid akdkd dkdkde dkdkd ieidk dkeid dkei dkeke dkkei dkke dkdke slsle siekd skoekd slkeiofj kjkio sjjie sjoie siine sinine jtjeke jkjke kjkjko kjkje lkjjlkj iopkd skjkos ojojj.</P>
           </div>
 
@@ -122,7 +126,7 @@
           <div class="boxinner"></div>
           </div> 
      </div>     
-
+    </div> 
 
 
 
