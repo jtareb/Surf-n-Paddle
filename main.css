@@ -83,14 +83,27 @@ body {
 
 }
 .leftcol {
+	width: 650px;
 	margin-left: 100px;
-	margin-right: 550px;
 	float: left;
-	font-size: 400%;
-	font-family: 'Oswald', sans-serif;
+
 
 }
+h1 {
+	font-size: 400%;
+	font-family: 'Oswald', sans-serif;
+}
 
+
+
+.annemarie {
+	float: left;
+	height: 21px;
+	width: 21px;
+	font-family: 'Oswald', sans-serif;
+	font-size: -100%%
+
+}
 
 	
 
@@ -100,20 +113,16 @@ body {
 	margin-right: 550px;
 
 }
-
-.rightcol {
-	margin-left: 650px;
-	margin-right: 100px;
-	float: right;
-
-
-
-
+h2 {
+	font-family: 'Open Sans', sans-serif;
 }
-.author {
-	top: 10px;
-	left: 225px;
-}	
+
+
+
+
+
+	
+
 
 
 

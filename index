@@ -53,18 +53,12 @@
     <div class="centerpage">
       
       <div class="leftcol">       
-        A FANTASTIC ENGAGING HEADLINE GOES HERE
-         
-      </div>
-
-
-         
-
-
-
-        
-
-        <div class="textleft">
+        <h1> FANTASTIC ENGAGING HEADLINE GOES HERE</h1>
+      
+          
+            <div class: "subavatoar">     
+            <img class="annemarie"src="assets/avatar.png" /><span>Anne Marie onMonday Oct 7 9:22pm</span>
+           </div>
 
           
 
@@ -83,11 +77,7 @@
 
       </div>
     
-    <div class="rightcol">
-        <div class="author">
-          <img class="author"src="assets/avatar.png" />
 
-        </div>
         
         
     </div>
