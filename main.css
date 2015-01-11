@@ -77,44 +77,52 @@ body {
 
 
 .centerpage{
-	width: 1300px;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 40px;
 
 }
 .leftcol {
-	position: relative;
-	width: 650px;
 	margin-left: 100px;
-	margin-right:650px;
-	text-align: left;
+	margin-right: 550px;
+	float: left;
 	font-size: 400%;
 	font-family: 'Oswald', sans-serif;
 
 }
-.avatar {
-	margin-left: 100px;
-	width: 42px;
-	height: 42px;
 
-}
+
 	
 
-
-
 .textleft {
-	position: relative;
 	text-align: left;
 	margin-left: 100px;
-	margin-right: 650px;
+	margin-right: 550px;
 
 }
 
+.rightcol {
+	margin-left: 650px;
+	margin-right: 100px;
+	float: right;
 
 
-h2 {
-	font-family: 'Open Sans', sans-serif;
+
+
 }
+.author {
+	top: 10px;
+	left: 225px;
+}	
+
+
+
+
+
+
+
+
+
 
 
 
