@@ -176,6 +176,13 @@ p {
 	color: grey;
 
 }
+.bottomhdr {
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 400%;
+	padding-bottom: 25px;
+}
+
 
 .bottomlinks {
 	float: left;
@@ -187,36 +194,86 @@ p {
 	
 
 }
+
 .box1 {
 	position: relative;
-	width:325px;
+	width: 325px;
 	height: 330px;
 	float: left;
 
 }
-.box1inner{
-	background-color: hsla(220,50%,30%, .7);
-  	width:325px;
+.boxinner{
+	background-color: hsla(206,80%,60%, .8);
+  	width: 325px;
   	height:330px;
   	position: absolute;
   	top:0;
   	left: 0;
 }
+.boxinner:hover {
+  background-color: hsla(206,80%,60%, 0);
+}
 
 .box2 {
+	position: relative;
+	width: 325px;
+	height: 330px;
 	float: left;
-	
+}
+.boxinner: {
+	background-color: hsla(206,80%,60%, .8);
+  	width: 325px;
+  	height:330px;
+  	position: absolute;
+  	top:0;
+  	left: 0;
+}	
 
+
+.boxinner:hover {
+	background-color: hsla(206,80%,60%, 0);
 }
 
 .box3 {
+	position: relative;
+	width: 325px;
+	height: 330px;
 	float: left;
-
 }
-
+.boxinner: {
+	background-color: hsla(206,80%,60%, .8);
+  	width: 325px;
+  	height:330px;
+  	position: absolute;
+  	top:0;
+  	left: 0;
+  }
+.boxinner:hover {
+	background-color: hsla(206,80%,60%, 0);
+}
 .box4 {
+	position: relative;
+	width: 325px;
+	height: 330px;
 	float: left;
 }
+
+	
+}
+.boxinner: {
+	background-color: hsla(206,80%,60%, .8);
+  	width: 325px;
+  	height:330px;
+  	position: absolute;
+  	top:0;
+  	left: 0;
+ }
+.boxinner:hover {
+	background-color: hsla(206,80%,60%, 0);
+}
+
+
+
 
 
 

@@ -102,24 +102,25 @@
           </div>
 
      </div>   
-  
+       
      <div class="bottomlinks">
+          <div class="bottomhdr">MOST RECENT POSTS</div>
         <div class="box1">
           <img src="assets/article-image-1.jpg" />
-          <div class="box1inner"></div>
-          </div>
+          <div class="boxinner"></div>
+        </div>
         <div class="box2">
           <img src="assets/article-image-2.jpg" />
-          <div class="box2inner"></div>
-          </div>
+          <div class="boxinner"></div>
+        </div>
         <div class="box3">
           <img src="assets/article-image-3.jpg" />
-          <div class="box3inner"></div>
+          <div class="boxinner"></div>
          </div>  
-        <div class="box 4">
+        <div class="box4">
           <img src="assets/article-image-4.jpg" />
-          <div class="box4inner"></div>
-         </div> 
+          <div class="boxinner"></div>
+          </div> 
      </div>     
 
 
