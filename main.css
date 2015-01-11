@@ -84,9 +84,10 @@ body {
 
 }
 .leftcol {
-	width: 650px;
+	width: 550px;
 	margin-left: 100px;
 	float: left;
+	
 
 
 }
@@ -112,6 +113,7 @@ h1 {
 	text-align: left;
 	margin-left: 100px;
 	margin-right: 550px;
+
 
 }
 h2 {
@@ -158,18 +160,63 @@ h5 {
 	font-size: small;
 	text-decoration: underline;
 }
+.sidebarhdg {
+	padding-left: 61px;
 
+}
+h6 {
+	font-family: 'Oswald', sans-serif;
+	font-size: medium;
+	color: blue;
+}	
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: small;
+	color: grey;
+
+}
+
+.bottomlinks {
+	float: left;
+	height: 330px;
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 100px;
 	
 
+}
+.box1 {
+	position: relative;
+	width:325px;
+	height: 330px;
+	float: left;
 
+}
+.box1inner{
+	background-color: hsla(220,50%,30%, .7);
+  	width:325px;
+  	height:330px;
+  	position: absolute;
+  	top:0;
+  	left: 0;
+}
 
+.box2 {
+	float: left;
+	
 
+}
 
+.box3 {
+	float: left;
 
+}
 
-
-
-
+.box4 {
+	float: left;
+}
 
 
 
