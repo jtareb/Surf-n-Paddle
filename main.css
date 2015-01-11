@@ -86,11 +86,9 @@ body {
 .leftcol {
 	width: 550px;
 	margin-left: 100px;
-	float: left;
-	
-
-
+	float: left;	
 }
+
 h1 {
 	font-size: 400%;
 	font-family: 'Oswald', sans-serif;
@@ -110,12 +108,12 @@ h1 {
 	
 
 .textleft {
-	text-align: left;
-	margin-left: 100px;
-	margin-right: 550px;
-
-
+	font-family: 'Oswald', sans-serif;
+	font-size: 100%
 }
+
+
+
 h2 {
 	font-family: 'Open Sans', sans-serif;
 }
@@ -172,7 +170,7 @@ h6 {
 
 p {
 	font-family: 'Open Sans', sans-serif;
-	font-size: small;
+	font-size: 25%;
 	color: grey;
 
 }
