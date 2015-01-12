@@ -116,6 +116,7 @@ h1 {
 
 h2 {
 	font-family: 'Open Sans', sans-serif;
+	color: blue;
 }
 
 
@@ -123,6 +124,10 @@ h2 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 100%
 }
+
+
+	
+
 
 .rightcol {
 	width: 400px;
