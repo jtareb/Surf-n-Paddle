@@ -74,6 +74,18 @@
 
           <p>Qui nunc loqueris? Ecce qui cogitatis? Vos scitis quanta ego faciam annum Id est, ut ego dixi vobis non credunt. Scis quid si ne subito placuit ire in opus? Askjowlwojij sdli slijjije sks skmnnie slkjke slkjk slkjj slkj sljj sljjkj slkjklj ssljkjs slj sljlkjs</p>
         </div>
+
+        <div class="linkbox">
+           <img class="read1"src="assets/icon-comment.png" />
+          <span class="comments">Read Comments</span>
+
+          <img class="read2"src="assets/icon-upload.png"/>
+          <span class="later">Read Later</span>
+
+          <img class="read3"src="assets/icon-share.png"/>
+          <span class="share">Share this point</span>
+
+        </div>
         
           
           
