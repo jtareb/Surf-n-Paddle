@@ -92,6 +92,7 @@ body {
 h1 {
 	font-size: 400%;
 	font-family: 'Oswald', sans-serif;
+
 }
 
 
@@ -102,7 +103,7 @@ h1 {
 	width: 21px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: small%
-
+	text-decoration: underline;
 }
 
 	
@@ -317,8 +318,55 @@ h6 {
 	background-color: hsla(206,80%,60%, 0);
 }
 
+.bottombar {
+	clear: both;
+	width: 1300px;
+	margin-top: 0;
+	height:	120px;
+	background-color: #083452;
+	display: inline-block;
 
-  	
+}
+.bottombar .IYlogo {
+	position: absolute;
+	float: left;	
+	margin-left: 180px;
+	margin-top: 35px;
+	
+}
+
+.logotxt2 { 
+	position: relative;
+	float: left;
+	left: 228px;
+	top: 45px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: small;
+	color: grey;
+
+
+}
+
+
+.navitms li{
+	float: right;
+	margin-top:35px;
+	margin-right: 100px;
+	color: grey;
+	font-family: 'Open Sans', sans-serif;
+	font-size: small;
+
+
+
+
+}
+
+
+
+
+
+
+
 
 
 
