@@ -105,28 +105,44 @@
             <P>Abdc sked akdkd akdki dkaid akdkd dkdkde dkdkd ieidk dkeid dkei dkeke dkkei dkke dkdke slsle siekd skoekd slkeiofj kjkio sjjie sjoie siine sinine jtjeke jkjke kjkjko kjkje lkjjlkj iopkd skjkos ojojj.</P>
           </div>
 
-     </div>   
+     </div>      
        
-     <div class="bottomlinks">
-          <div class="bottomhdr">MOST RECENT POSTS</div>
-        <div class="box1">
+        <div class="bottomlinks">
+          <div class="bottomhdr">
+            MOST RECENT POSTS
+          </div>
+        </div>  
+          <div class="box1">
           <img src="assets/article-image-1.jpg" />
+          <div class="box1text">ANOTHER COOL POST</div>      
           <div class="boxinner"></div>
         </div>
+       
         <div class="box2">
           <img src="assets/article-image-2.jpg" />
+          <div class="box2text">POST TITLE</div>
           <div class="boxinner"></div>
         </div>
+       
         <div class="box3">
           <img src="assets/article-image-3.jpg" />
+          <div class="box3text">HERES ANOTHER LONGER POST TITLE</div>
           <div class="boxinner"></div>
          </div>  
+       
         <div class="box4">
           <img src="assets/article-image-4.jpg" />
+          <div class="box4text">OH COOL A POST</div>
           <div class="boxinner"></div>
           </div> 
-     </div>     
-    </div> 
+             
+      
+
+    
+
+
+  
+
 
 
 

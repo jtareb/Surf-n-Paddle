@@ -176,15 +176,6 @@ h6 {
 
 
 
-}
-.bottomhdr {
-	text-align: center;
-	font-family: 'Oswald', sans-serif;
-	font-size: 400%;
-	padding-bottom: 25px;
-}
-
-
 .bottomlinks {
 	float: left;
 	height: 330px;
@@ -195,12 +186,31 @@ h6 {
 	
 
 }
+.bottomhdr {
+	text-align: center;
+	top: 500px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 400%;
+
+}
 
 .box1 {
 	position: relative;
 	width: 325px;
 	height: 330px;
 	float: left;
+}
+
+.box1text {
+	position: absolute;
+	top: 230px;
+	left: 10px;
+	text-align: left;
+	font-family: 'Oswald', sans-serif;
+	font-size: 200%;
+	color: white;
+
+
 
 }
 .boxinner{
@@ -211,6 +221,8 @@ h6 {
   	top:0;
   	left: 0;
 }
+
+
 .boxinner:hover {
   background-color: hsla(206,80%,60%, 0);
 }
@@ -221,6 +233,15 @@ h6 {
 	height: 330px;
 	float: left;
 }
+.box2text {
+	position: absolute;
+	top: 230px;
+	left: 10px;
+	text-align: left;
+	font-family: 'Oswald', sans-serif;
+	font-size: 200%;
+	color: white;
+	}
 .boxinner: {
 	background-color: hsla(206,80%,60%, .8);
   	width: 325px;
@@ -241,6 +262,16 @@ h6 {
 	height: 330px;
 	float: left;
 }
+.box3text {
+	position: absolute;
+	top: 230px;
+	left: 10px;
+	text-align: left;
+	font-family: 'Oswald', sans-serif;
+	font-size: 200%;
+	color: white;
+}
+
 .boxinner: {
 	background-color: hsla(206,80%,60%, .8);
   	width: 325px;
@@ -260,6 +291,14 @@ h6 {
 }
 
 	
+.box4text {
+	position: absolute;
+	top: 230px;
+	left: 10px;
+	text-align: left;
+	font-family: 'Oswald', sans-serif;
+	font-size: 200%;
+	color: white;
 }
 .boxinner: {
 	background-color: hsla(206,80%,60%, .8);
@@ -272,6 +311,9 @@ h6 {
 .boxinner:hover {
 	background-color: hsla(206,80%,60%, 0);
 }
+
+
+  	
 
 
 
