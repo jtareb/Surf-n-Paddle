@@ -1,38 +1,27 @@
-$font1 stack: Open Sarif, sans-serif;
-$font2 stack: Oswald, sans-serif
+$font stack: Open Sarif, sans-serif;
+
 
 
 
 
 .top-image .tophdr .underhder .logotext . {
 
-	font-family: 100% $font1 stack;
+	font-family: 100% $font stack;
 }
 
-.topimage .linktext .linksearch {
-	font-family: 100% $font2 stack;
-}
 
-.centerpage .leftcol h1 {
-	font-family: 100% $font2 stack;
-
-}
 .centerpage .annemarie .textleft h2 .textleft2
 	{
-	font-family: 100% $font1 stack;
+	font-family: 100% $font stack;
 
 	}
 .rightcol h3 h4 h5 {
-	font-family: 100% $font1 stack;
-
-}
-.bottomlinks .bottomhdr .box1text .box2text .box3text .box4text {
-	font-family: 100% $font2 stack;
+	font-family: 100% $font stack;
 
 }
 
 .bottombR .logotxt2 .navitms {
-	font-family: $font1 stack;
+	font-family: $font stack;
 }
 
 
