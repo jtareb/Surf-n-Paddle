@@ -1,1 +1,0 @@
-Rebuilding the Surf-n-Paddle websit using html, css, and sass
