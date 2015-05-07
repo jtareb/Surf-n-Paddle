@@ -1,4 +1,1 @@
-Surf-n-Paddle
-Rebuilding the surf-n-paddle website and adding scss assigns 3 and 4
-https://github.com/jtareb/Surf-n-Paddle
-
+Rebuilding the Surf-n-Paddle websit using html, css, and sass
